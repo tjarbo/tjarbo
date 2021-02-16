@@ -1,5 +1,5 @@
 ---
 heading: "Hi, I'm tjarbo"
-subtitle: "Test subtitle"
+subtitle: "test"
 handle: "tjarbo:mozilla.org"
 ---
