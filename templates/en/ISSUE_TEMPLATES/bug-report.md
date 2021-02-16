@@ -1,24 +1,24 @@
 ---
 name: "\U0001F41B Bug report"
 about: Create a new report and help us, to improve the project!
-title: "\U0001F41B title...."
+title: "\U0001F41B title..."
 labels: ":bug: bug, :white_flag: help wanted"
 assignees: ''
 
 ---
 
 ### Description
-Add a small description about what happened
+Add a small description about what happened.
 
 ### Steps to reproduce:
 Steps to reproduce the behavior:
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+2. Click on '...'
+3. Scroll down to '...'
 4. See error
 
 ### What was supposed to happen?
-What do you think should happen if there is no bug ?
+What do you think should happen if there is no bug?
 
 
 ### Further information:
