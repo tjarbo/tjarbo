@@ -1,6 +1,6 @@
 baseURL = "https://iam.tjarbo.me/"
 languageCode = "en-us"
-title = "tjarbo's blog"
+title = "I am tjarbo"
 theme = "hugo-theme-codex" 
 copyright = "© {year}"
 
@@ -20,7 +20,7 @@ copyright = "© {year}"
   twitter = "https://twitter.com/tjarbo_dev"
   github = "https://github.com/tjarbo"
   coffee = "https://buymeacoff.ee/tjarbo"
-  matrix = "https://matrix.to/#/@tjarbo:mozilla.org"
+  matrix = "https://matrix.to/#/@tjarbo:matrix.org"
   # email = "mailto:<your email>"
   # mastodon = "https://mastodon.social/@nickname"
   # facebook = "https://facebook.com/<your handle>"
@@ -52,6 +52,9 @@ copyright = "© {year}"
   # Set to false to disallow raw HTML in markdown files
   [markup.goldmark.renderer]
       unsafe = true
+
+[params.colors]
+    fancy = "#FFCC65"
 
 # Controls the navigation
 #[[menu.main]]
